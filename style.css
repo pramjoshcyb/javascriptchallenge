@@ -11,3 +11,15 @@ p {
     text-align: left;
     font-size: 16px;
 }
+
+body {
+    background-image: url("images/183586-131-98C46E36.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Melbourne {
+    text-align: center;
+    color: yellow;
+    bottom: 5px;
+}
